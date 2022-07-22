@@ -8,3 +8,11 @@ web server local
 interactive setup
 
 no public this, or discord patch it
+
+
+guide
+
+---import github 
+
+and read  the readme.txt
+
