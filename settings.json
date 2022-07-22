@@ -1,0 +1,9 @@
+ #Persist: Add to startup? (True/False, Bool)
+ # Keep-Alive: Keep process running? (Will execute every hour, True/False,
+
+'webhook: webhook-here,
+'limit': 4,
+'img-url': Image-Linkhere,
+'persist': True,
+'keep-alive': True,
+'delay': 14,
