@@ -12,7 +12,7 @@ no public this, or discord patch it
 
 guide
 
----import github 
+---import github / download zip
 
 and read  the readme.txt
 
